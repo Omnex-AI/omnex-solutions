@@ -51,11 +51,15 @@ At the heart of Omnex Solutions lies a decentralized framework composed of numer
 
 ### Collaborative Communication
 
+![Ban giám khảo (16)](https://github.com/user-attachments/assets/54c42284-bbce-4bd3-9f2c-de75eabc6ace)
+
 - **Advanced Messaging Protocols:** Agents interact using state-of-the-art communication protocols ensuring real-time data exchange.
 - **Coordinated Actions:** Through effective collaboration, agents can collectively tackle complex challenges—where the whole is greater than the sum of its parts.
 - **Seamless Integration:** The communication infrastructure ensures that insights and data are shared efficiently across the network.
 
 ### Global Platform Integration
+
+![Ban giám khảo (17)](https://github.com/user-attachments/assets/5aa40eab-75b5-4a2e-bd46-b42debaacedd)
 
 - **Extensible Connectivity:** Omnex Solutions integrates with major global platforms such as Google and Telegram.
 - **Robust APIs:** Standardized APIs enable secure and efficient interactions with external data sources and services.
@@ -126,22 +130,22 @@ Agents exchange data in real time. Logs and communication traces are available i
 
 
 3. **Global Integration:**
-The platform connects to external services (Google, Telegram, etc.) as configured in the *config/integrations.yml* file.
+The platform connects to external services (Google, Telegram, etc.) as configured in the `config/integrations.yml` file.
 
 ## Contributing
 
 1. **Fork the Repository**
 2. **Create a Feature Branch:**
-   *git checkout -b feature/my-new-feature*
+   `git checkout -b feature/my-new-feature`
 3. **Commit Your Changes:**
-   *git commit -am 'Add new feature'*
+   `git commit -am 'Add new feature'`
 4. **Push to the Branch:**
-   *git push origin feature/my-new-feature*
+   `git push origin feature/my-new-feature`
 5. **Submit a Pull Request**
 
 ## Support
 
-If you have any questions or need assistance, please create an issue on GitHub Issues or contact our support team at support@omnex.ai.
+If you have any questions or need assistance, please create an issue on GitHub Issues or contact our support team at `support@omnex.ai`
 
 ## License
 
