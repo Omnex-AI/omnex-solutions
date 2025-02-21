@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Omnex-AI/omnex-solutions)  
+<br>
 
 Omnex Solutions is a cutting-edge, modular AI platform built on a decentralized, agent-based architecture. Designed to adapt seamlessly to diverse operational demands, the platform leverages specialized autonomous agents that interact through a robust, real-time communication network. With native support for global integrations (e.g., with Google and Telegram), Omnex Solutions provides an interconnected and scalable AI ecosystem at the forefront of innovation.
 
