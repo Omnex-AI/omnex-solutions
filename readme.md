@@ -8,7 +8,8 @@
 [![dep4](https://img.shields.io/badge/docker%20image-available-ff69b4.svg)](https://hub.docker.com/layers/site24x7/docker-agent/release1990/images/sha256-66aa35f69df70b910a2813dc90f9cba2fbc4126e4eac68851f9c96c377901dbb)
 <br>
 
-![Ban giám khảo (17)](https://github.com/user-attachments/assets/dd548753-0d43-48c8-99e1-4c5645a3e585)
+![Ban giám khảo (18)](https://github.com/user-attachments/assets/4bba37d5-3092-4da6-9e29-e174a5f0a0f0)
+
 
 Omnex Solutions is a cutting-edge, modular AI platform built on a decentralized, agent-based architecture. Designed to adapt seamlessly to diverse operational demands, the platform leverages specialized autonomous agents that interact through a robust, real-time communication network. With native support for global integrations (e.g., with Google and Telegram), Omnex Solutions provides an interconnected and scalable AI ecosystem at the forefront of innovation.
 
