@@ -4,7 +4,6 @@
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Omnex-AI/omnex-solutions)
 [![dep1](https://img.shields.io/badge/implementation-tensorflow-orange.svg)](https://www.tensorflow.org/)
 ![dep1](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-[![dep2](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Omnex-AI/omnex-solutions)  
 [![dep3](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Omnex-AI/omnex-solutions)
 [![dep4](https://img.shields.io/badge/docker%20image-available-ff69b4.svg)](https://hub.docker.com/layers/site24x7/docker-agent/release1990/images/sha256-66aa35f69df70b910a2813dc90f9cba2fbc4126e4eac68851f9c96c377901dbb)
 <br>
