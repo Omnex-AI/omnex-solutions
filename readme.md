@@ -2,7 +2,7 @@
 **A Decentralized, Multi-Agent AI Platform**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
+[![dep1](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Omnex-AI/omnex-solutions)  
 <br>
 
