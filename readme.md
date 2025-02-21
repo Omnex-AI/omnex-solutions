@@ -1,5 +1,5 @@
 # Omnex Solutions  
-**A Decentralized, Multi-Agent AI Platform**
+**Multimodal integrated agent interacting with solana blockchain**
 
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Omnex-AI/omnex-solutions)
 [![dep1](https://img.shields.io/badge/implementation-tensorflow-orange.svg)](https://www.tensorflow.org/)
@@ -92,14 +92,14 @@ The platform is designed to be highly modular and scalable, enabling rapid addit
    source venv/bin/activate    # On Windows use: venv\Scripts\activate
    ```
 
-3. **Install Dependencies
+3. **Install Dependencies**
 If a requirements.txt is available, install dependencies with:
    ```bash
    pip install -r requirements.txt
    ```
 (If no requirements file is provided, please refer to the project documentation for specific dependencies.)
 
-4. **Run Setup (if applicable)
+4. **Run Setup (if applicable)**
    ```bash
    python setup.py install
    ```
@@ -113,26 +113,26 @@ After installation, you can start exploring Omnex Solutions by running the main 
  
 ### Example Workflow
 
-1. **Launching an Agent:
+1. **Launching an Agent:**
 The system automatically initializes and deploys specialized agents based on configuration files.
 
-2. **Inter-Agent Communication:
+2. **Inter-Agent Communication:**
 Agents exchange data in real time. Logs and communication traces are available in the /logs directory.
 
 
-3. **Global Integration:
+3. **Global Integration:**
 The platform connects to external services (Google, Telegram, etc.) as configured in the *config/integrations.yml* file.
 
 ## Contributing
 
-1. **Fork the Repository
-2. **Create a Feature Branch:
+1. **Fork the Repository**
+2. **Create a Feature Branch:**
    *git checkout -b feature/my-new-feature*
-3. **Commit Your Changes:
+3. **Commit Your Changes:**
    *git commit -am 'Add new feature'*
-4. **Push to the Branch:
+4. **Push to the Branch:**
    *git push origin feature/my-new-feature*
-5. **Submit a Pull Request
+5. **Submit a Pull Request**
 
 ## Support
 
