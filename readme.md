@@ -2,6 +2,7 @@
 **A Decentralized, Multi-Agent AI Platform**
 
 [![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Omnex-AI/omnex-solutions)
+[![dep1](https://img.shields.io/badge/implementation-tensorflow-orange.svg)](https://www.tensorflow.org/)
 ![dep1](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 [![dep2](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Omnex-AI/omnex-solutions)  
 [![dep3](https://img.shields.io/badge/status-in%20progress-green.svg)](https://github.com/Omnex-AI/omnex-solutions)
