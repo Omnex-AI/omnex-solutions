@@ -33,6 +33,8 @@ Omnex Solutions is a cutting-edge, modular AI platform built on a decentralized,
 
 ## Introduction
 
+![Ban giám khảo (17)](https://github.com/user-attachments/assets/145ae4c7-a91b-4185-a033-f13ddfe5898e)
+
 At the heart of Omnex Solutions lies a decentralized framework composed of numerous specialized agents. Each agent is a self-contained unit with unique capabilities designed to handle specific tasks. This modular design not only enhances system agility but also allows seamless scalability. By compartmentalizing functions into individual agents, Omnex Solutions quickly adapts to changing operational demands while maintaining robust overall performance.
 
 ---
@@ -40,6 +42,8 @@ At the heart of Omnex Solutions lies a decentralized framework composed of numer
 ## Key Features
 
 ### Agent-Based Architecture
+
+![Ban giám khảo (16)](https://github.com/user-attachments/assets/e9936f8c-e23f-42c1-a24d-245f70554ce8)
 
 - **Decentralized Framework:** The platform is built around autonomous agents that can operate independently yet cohesively.
 - **Modular Design:** Each agent is tailored for specific tasks, allowing for rapid adaptation and easy scaling.
