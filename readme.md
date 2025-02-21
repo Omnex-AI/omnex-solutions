@@ -145,7 +145,7 @@ The platform connects to external services (Google, Telegram, etc.) as configure
 
 ## Support
 
-If you have any questions or need assistance, please create an issue on GitHub Issues or contact our support team at `support@omnex.ai`
+If you have any questions or need assistance, please create an issue on GitHub Issues or contact our support team at `support@omnexhub.com`
 
 ## License
 
